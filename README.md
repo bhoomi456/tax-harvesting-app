@@ -54,8 +54,7 @@ npm run dev
 
 ## 📸 Screenshots
 
-(Add screenshots here)
-
+![Dashboard](./screenshots/home.png)
 ---
 
 ## ⚠️ Assumptions
